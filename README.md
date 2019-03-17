@@ -1,4 +1,6 @@
 # typed-gson
+[ ![Download](https://api.bintray.com/packages/apolubelov/general/typed-gson/images/download.svg) ](https://bintray.com/apolubelov/general/typed-gson/_latestVersion)
+
 Type information encoding in Json
 
 The [JSON](https://www.json.org/) does not support object types, this library implements TypeAdapterFactory for [GSON](https://github.com/google/gson) that adds type meta-information to JSON object during encoding and uses it during decoding.
